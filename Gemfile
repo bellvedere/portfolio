@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby "2.2.0"
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -41,4 +42,3 @@ group :development, :test do
   gem 'spring'
 end
 
-ruby "2.2.0"
